@@ -1,7 +1,7 @@
 {
   "dotnetcore3.1": [
     {
-      "directory": "dotnetcore3.1/cookiecutter-aws-sam-hello-dotnet",
+      "directory": "dotnetcore3.1/cookiecutter-aws-sam-hello-dotnet-111111111",
       "displayName": "Hello World Example",
       "dependencyManager": "cli-package",
       "appTemplate": "hello-world",
